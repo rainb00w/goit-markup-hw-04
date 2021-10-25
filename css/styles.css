@@ -336,10 +336,6 @@ margin-right: 10px;
   height: 44px;
 }
 
-.social-icon{
-width: 20px;
-height: 20px;
-}
 
 .social-item:not(:last-child) {
   margin-right: 10px;
@@ -376,10 +372,6 @@ height: 20px;
 .clients-item {
   width: 170px;
   height: 92px;
-}
-
-.clients-icon{
-height: 60px;
 }
 
 .clients-item:not(:last-child) {
@@ -479,11 +471,6 @@ color: var(--primary-bg-color);
 .footer-item {
   width: 44px;
   height: 44px;
-}
-
-.footer-icon{
-width: 20px;
-height: 20px;
 }
 
 .footer-item:not(:last-child) {
